@@ -2,7 +2,7 @@
 
 This repository is an example using the `langchain_ibm` implementation for function calling with watsonx.
 
-Related blog post: 
+Related blog post: [Integrating langchain_ibm with watsonx and LangChain: Example and Tutorial](https://wp.me/paelj4-20d)
 
 ## Setup and run the example
 
