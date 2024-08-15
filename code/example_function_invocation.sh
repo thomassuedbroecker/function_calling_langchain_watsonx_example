@@ -2,6 +2,7 @@
 # Environment variables
 echo "##########################"
 echo "# 0. Load environments"
+source ./venv/bin/activate
 source .env
 
 # Optional for get watsonx instance id
