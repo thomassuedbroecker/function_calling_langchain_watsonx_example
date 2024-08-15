@@ -1,0 +1,13 @@
+# IBM Cloud
+export IBMCLOUD_APIKEY=YOUR_KEY
+export IBMCLOUD_URL="https://iam.cloud.ibm.com/identity/token"
+
+# Watsonx
+export WATSONX_URL="https://eu-de.ml.cloud.ibm.com"
+export WATSONX_VERSION=2023-05-29
+export WATSONX_PROJECT_ID=YOUR_PROJECT_ID
+
+export WATSONX_MIN_NEW_TOKENS=1
+export WATSONX_MAX_NEW_TOKENS=300
+export WATSONX_LLM_NAME=mistralai/mixtral-8x7b-instruct-v01
+export WATSONX_INSTANCE_ID=YOUR_WATSONX_INSTANCE_ID

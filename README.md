@@ -53,6 +53,7 @@ export WATSONX_PROJECT_ID=YOUR_PROJECT_ID
 export WATSONX_MIN_NEW_TOKENS=1
 export WATSONX_MAX_NEW_TOKENS=300
 export WATSONX_LLM_NAME=mistralai/mixtral-8x7b-instruct-v01
+export WATSONX_INSTANCE_ID=YOUR_WATSONX_INSTANCE_ID
 ```
 
 ### Step 5: Run the example
